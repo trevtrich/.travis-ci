@@ -1,0 +1,4 @@
+import:
+  - npm-token-env.yml
+  - github-token-env.yml
+  - form8ion/.travis-ci:semantic-release.yml
